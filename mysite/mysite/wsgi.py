@@ -1,6 +1,9 @@
 """
 WSGI config for mysite project.
 
+Django is used to make web framework but not web server.
+So we need to host wsgi in some server.
+
 It exposes the WSGI callable as a module-level variable named ``application``.
 
 For more information on this file, see
